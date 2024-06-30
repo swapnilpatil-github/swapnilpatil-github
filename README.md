@@ -1,5 +1,11 @@
+# Hi, I am Swapnil Patil 👋 
+
 # 💫 About Me:
-Hi, I am Swapnil Patil, a Computer Science major with a dual passion for Cyber Security and Development.<br> Currently, I am working on my final year project, which focuses on web application security. <br>I am looking to collaborate with like-minded individuals to enhance this project. <br>Additionally, I am learning Scripting and Automation to broaden my skill set.
+- **A Computer Science major with a dual passion for Cyber Security and Development.**<br>
+- **Currently, I am working on my final year project, which focuses on web application security.**<br>
+- **I am looking to collaborate with like-minded individuals to enhance this project.**<br>
+- **Additionally, I am learning Scripting and Automation to broaden my skill set.**
+
 
 
 ## 🌐 Socials:
